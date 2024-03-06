@@ -98,5 +98,12 @@ For the development of the present project it was used different information and
 ## Github Repository
 https://github.com/edwincalladurandal/UdacityAirbnbJupyter.git
 
+The files that you are going to find are:
+* README.md all the basic information for a better understanding of the project
+* FINALPROJECTAIRBNB.ipynb this is the Python code with a Jupyter Notebook view for easy access and understanding
+* .GITIGNORE this is just for our use with GIT, you can ignore it 
+
 ## Blog
 https://medium.com/@edwin.calla/blog-udacity-project-airbnb-424b36370575
+
+Here you will find a summary of the results of the analysis, we invite you to go and read it! Of course if you want to participate with some comments, they are more than welcome! As a brief glance of the results, we can say that it is a fancy business to enter, if you have the interest joing this business, we recommend to you e-visit a couple of residences and if you have the chance to rent one fancy and one cheap, this could give you good parameters for understanding where you want to be. Good luck! 
