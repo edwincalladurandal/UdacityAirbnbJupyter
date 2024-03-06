@@ -79,6 +79,22 @@ We want to emphasis that you have to be careful when you are elaborating the que
 ## Comments
 It was a fun job to do, if you can take the time to analyse deeply, you will understand much better why Airbnb works the way it works ;) good luck! And share with us your findings! Lets talk about business! 
 
+## Libraries
+It is necessary to use the proper libraries at the beggining of our code. You are going to see them with their proper info in the Jupyter Notebook. 
+
+They are: 
+* Numpy -> Fundamental library for scientific computing in Python
+* Pandas -> Powerful library for data manipulation and analysis
+* Matplotlib -> Plotting library that enables you to create a wide variety of static, animated, and interactive visualizations in Python
+* Scikit-learn -> Popular machine learning library in Python 
+
+## Acknowledgement 
+For the development of the present project it was used different information and knowledge, so we would like to acknowledge to:
+* Udacity for elaborating this practical course and the reviewers/professors behind everything
+* Airbnb for giving an open-source data set
+* Kaggle for offering a detailed information about the data set that helped to analyze beforehand
+* All the people posting their own bugs and expiriences in StackOverflow, Medium or GitHub 
+
 ## Github Repository
 https://github.com/edwincalladurandal/UdacityAirbnbJupyter.git
 
