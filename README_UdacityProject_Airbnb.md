@@ -80,7 +80,7 @@ We want to emphasis that you have to be careful when you are elaborating the que
 It was a fun job to do, if you can take the time to analyse deeply, you will understand much better why Airbnb works the way it works ;) good luck! And share with us your findings! Lets talk about business! 
 
 ## Github Repository
-https://github.com/edwincalladurandal/UdacityAirbnbTest
+https://github.com/edwincalladurandal/UdacityAirbnbJupyter.git
 
 ## Blog
 https://medium.com/@edwin.calla/blog-udacity-project-airbnb-424b36370575
